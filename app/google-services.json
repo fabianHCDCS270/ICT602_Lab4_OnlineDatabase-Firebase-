@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251533534075",
+    "project_id": "lab4-onlinedatabase-firebase",
+    "storage_bucket": "lab4-onlinedatabase-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251533534075:android:66e67c842e51b2b7cb53de",
+        "android_client_info": {
+          "package_name": "com.example.lab4_onlinedatabasefirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0VNuYPkE2IBHzGM7xQdPFd0gP0cM2qC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity {
         //create database reference
         databaseArtists= FirebaseDatabase.getInstance().getReference("artists");
 
-        editTextName = findViewById(R.id.editTextName);
-        buttonAdd = findViewById(R.id.buttonAddArtist);
+        editTextName = (EditText) findViewById(R.id.editTextName);
+        buttonAdd = (Button) findViewById(R.id.buttonAddArtist);
 
         //attatch clicklistener to the button
         buttonAdd.setOnClickListener(new View.OnClickListener() {
